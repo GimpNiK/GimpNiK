@@ -25,7 +25,7 @@ A cross-platform file management app in OOP style, handling:
 
 For seamless file interactions across platforms.
 
-### UCL
+### UCL(Universal Command Line)
 An extension to FileAlchemy, offering:
 - Functional-style programming
 - Extra features
