@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi! I am GimpNiK
 
-<!--
-**GimpNiK/GimpNiK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer passionate about creating efficient tools to simplify code, boost cross-platform compatibility for desktop applications, and optimize APIs. I focus on writing clean, scalable code that enhances performance and developer experience.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Programming Languages:** Python, C++, BAT scripting
+- **Specializations:** API integration, Cross-platform development
+- **Systems:** File systems (Windows, Linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Languages & Technologies
+- **Primary:** Python, C++
+- **Scripting:** CMD (Command Prompt)
+
+## 🏗 Frameworks & Libraries
+- pywin32, py7zr, SQLAlchemy, Flask, and more
+
+## 🚀 Ongoing Projects
+
+### [FileAlchemy](https://github.com/GimpNiK/FileAlchemy)
+A cross-platform file management app in OOP style, handling:
+- Encodings
+- Archives
+- Registry operations
+- Installers
+
+For seamless file interactions across platforms.
+
+### UCL
+An extension to FileAlchemy, offering:
+- Functional-style programming
+- Extra features
+- Modern replacement for CMD and Bash
+
+## 📫 Connect with me
+**Email:** gimpelsonna@mail.ru
+
+Check out my repositories for more! 😊
