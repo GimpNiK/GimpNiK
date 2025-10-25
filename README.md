@@ -25,7 +25,7 @@ A cross-platform file management app in OOP style, handling:
 
 For seamless file interactions across platforms.
 
-### UCL(Universal Command Line)
+### CrossShell
 An extension to FileAlchemy, offering:
 - Functional-style programming
 - Extra features
