@@ -8,15 +8,15 @@ I'm a Python developer passionate about creating efficient tools to simplify cod
 - **Systems:** File systems (Windows, Linux)
 
 ## 📚 Languages & Technologies
-- **Primary:** Python, C++
-- **Scripting:** CMD (Command Prompt)
+- **Primary:** Python, C++, C, SQL, JS
+- **Scripting:** CMD (Command Prompt), bash
 
 ## 🏗 Frameworks & Libraries
 - pywin32, py7zr, SQLAlchemy, Flask, and more
 
 ## 🚀 Ongoing Projects
 
-### [FileAlchemy](https://github.com/GimpNiK/FileAlchemy)
+### [UniShell](https://github.com/GimpNiK/UniShell)
 A cross-platform file management app in OOP style, handling:
 - Encodings
 - Archives
@@ -25,11 +25,7 @@ A cross-platform file management app in OOP style, handling:
 
 For seamless file interactions across platforms.
 
-### CrossShell
-An extension to FileAlchemy, offering:
-- Functional-style programming
-- Extra features
-- Modern replacement for CMD and Bash
+
 
 ## 📫 Connect with me
 **Email:** gimpelsonna@mail.ru
